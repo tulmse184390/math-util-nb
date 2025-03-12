@@ -16,7 +16,7 @@ class MathUtilityDDTTest {
                 {4, 24},
                 {5, 120},
                 {6, 720},
-
+                {7, 80}
         };
     }
 
