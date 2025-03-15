@@ -1,3 +1,4 @@
+[![Math Utility Project (CI included) | © 2025 by tulm](https://github.com/tulmse184390/math-util-nb/actions/workflows/maven.yml/badge.svg)](https://github.com/tulmse184390/math-util-nb/actions/workflows/maven.yml)
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
